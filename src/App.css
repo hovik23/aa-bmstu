@@ -42,7 +42,17 @@
 }
 
 .content {
+  padding: 0px;
   padding-top: 50px;
   /*height: 800px;*/
   background-color: rgb(240, 240, 240);
+}
+
+.auth-container {
+  max-width: 400px;
+}
+
+.btn-red {
+  background-color: rgb(102, 16, 20);
+  color: white;
 }

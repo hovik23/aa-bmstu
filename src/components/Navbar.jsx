@@ -10,10 +10,10 @@ function Navbar() {
 		          <a className="nav-link active" aria-current="page" href="#">Главная</a>
 		        </li>
 		        <li className="nav-item">
-		          <a className="nav-link" href="#">Features</a>
+		          <a className="nav-link" href="#">Блог</a>
 		        </li>
 		        <li className="nav-item">
-		          <a className="nav-link" href="#">Pricing</a>
+		          <a className="nav-link" href="#">Проекты</a>
 		        </li>
 		      </ul>
 
@@ -22,7 +22,9 @@ function Navbar() {
 		      <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
 		      <button className="btn btn-outline-light me-1" type="button">Search</button>
 		    </form>
+
 		    <button className="btn btn-outline-light" type="button">Войти</button>
+		  
 		  </div>
 		</nav>
     </div>
